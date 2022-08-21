@@ -1,7 +1,8 @@
 # Assignment for Flutter Developers
 Goal of the assignment is to:
 
--> to Show the your coding skills and capability of adjusting to the technical environment  such as dealing with network calls , state management coding structure ,ext.
+-> to Show the your coding skills and capability of adjusting to the technical environment  such as dealing with network calls , state management , coding structure ,ext.
+
 hope you mintain clean and maintainable code.
 
 
