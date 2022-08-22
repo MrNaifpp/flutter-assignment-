@@ -3,7 +3,7 @@ Goal of the assignment is to:
 
 -> to Show the your coding skills and capability of adjusting to the technical environment  such as dealing with network calls , state management , coding structure ,ext.
 
-hope you mintain clean and maintainable code.
+looking to deliver a clean and maintainable code.
 
 
 # Assignment Task:
@@ -38,7 +38,7 @@ Fork from this repo and feel free to do your task,once have finish place PR.
 # Note:
 
 - Try to implement extensions where every you think it can be done.
-- Basic ui should work for showing informations. Dom't waste your much time on UI.
+- UI should design and implemented perfectly for showing information.
 - Error handling should be implemented properly.
 
 
